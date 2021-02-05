@@ -11,6 +11,9 @@ public class FileUpload {
 	
 	private Long id;
 	private String name;
+	private String Code;
+	
+	
 	
 
 	public String getName() {
